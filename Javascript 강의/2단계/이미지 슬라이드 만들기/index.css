@@ -1,0 +1,12 @@
+.slide-container {
+    /* 브라우저: 100vw */
+    width: 300vw;
+    transition: all 1s;
+    
+.slide-box {
+    width: 100vw;
+    float: left;
+}
+.slide-box img {
+    width: 100%;
+}
